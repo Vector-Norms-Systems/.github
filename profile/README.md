@@ -1,8 +1,7 @@
-## Hi there 👋
+# Hi, 
+## Welcome to Vector_Norms aka Venom Systems Dev
 
-# simple-website-with-blog
-
-> A simple website with a blog
+> A rising company with the aim of driving smart systems into existing and new code bases.
 
 `simple-website-with-blog` is a simple [Node.js](https://nodejs.org/) web application for static content that includes a blog.
 It was created as the basis for [my own website](https://dlaa.me/), but everyone is welcome to use it.
@@ -52,15 +51,8 @@ The implementation strives to be simple and free of unnecessary dependencies.
 1. Commit changes to repository
 1. Deploy repository to hosting service
 
-## Configuration
 
-- `SWWB_SITE_ROOT` Set to specify the site to use when serving content (ex: `./sites/sample-text`)
-- `SWWB_REDIRECT_TO_HTTPS` Set to `true` to redirect HTTP traffic to HTTPS and set an HSTS header
-- `SWWB_SHOW_FUTURE_POSTS` Set to `true` to show posts with a publish date in the future (good when authoring locally)
-- `SWWB_HOSTNAME_TOKEN` Set to change the replacement token for inserting host name in posts (RSS uses absolute URLs)
-- `SWWB_ACME_CHALLENGE` Set to specify the ACME challenge for [Let's Encrypt](https://letsencrypt.org/) (ex: `abc.123,def.456`)
-
-## Dependencies
+## Previous Systems
 
 | Project      | Home Page                                    |
 |--------------|----------------------------------------------|
@@ -81,6 +73,8 @@ The implementation strives to be simple and free of unnecessary dependencies.
 - `npm run lint`
 - Review changes
 - Send pull request
+
+
 
 
 <!--
