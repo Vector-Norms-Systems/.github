@@ -13,7 +13,7 @@
 | Mobile App      | MongoDB, Express, React Native, Node.js                    |
 | Web Dev        | MongoDB, Express, React, Node.js                       |
 | Data Science       | Pandas, NumPy, Matplotlib, TensorFlow, Seaborn, Scikit-learn                |
-| Desktop Apps  | Ionic.js |
+| Desktop Apps  | Electron.js |
 
 ## Contributers  🙋‍
 
