@@ -8,7 +8,7 @@
 
 ## System Dev Tools and Stacks
 
-| Tools We Use      | JS Stack                                    |
+| Tools We Use      | Stack                                    |
 |--------------|----------------------------------------------|
 | Mobile App      | MongoDB, Express, React Native, Node.js                    |
 | Web Dev        | MongoDB, Express, React, Node.js                       |
