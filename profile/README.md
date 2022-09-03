@@ -1,4 +1,4 @@
-# Hi there, Welcome to Vector_Norms aka Venom Systems Dev
+# Hi there, Welcome to Vector_Norms aka Venom Systems
 
 > A rising company with the aim of driving smart systems into existing and new code bases.
 
