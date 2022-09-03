@@ -5,8 +5,8 @@
 ## Websites
 
 # www.napsta.vercel.app
-# http://mgss.vercel.app
-# http://gpt-3-dun.vercel.app
+### http://mgss.vercel.app
+### http://gpt-3-dun.vercel.app
 
 ## System Dev Tools and Stacks
 
